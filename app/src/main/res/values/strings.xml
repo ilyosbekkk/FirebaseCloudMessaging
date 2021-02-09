@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessaging</string>
+    <string name="my_string">Hello  this is a String</string>
+</resources>
